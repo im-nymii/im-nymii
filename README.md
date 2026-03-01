@@ -1,4 +1,4 @@
-# Hi there, I'm Medusa! 🐍
+# Hi there, I'm Charlotte "Medusa" ! 🐍
 
 I'm a passionate developer and tech explorer who loves experimenting with code, building tools, and diving into new technologies.
 
