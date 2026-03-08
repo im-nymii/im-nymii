@@ -1,4 +1,4 @@
-# Hi there, I'm Charlotte "Medusa" ! 🐍
+# Hi there, I'm Charlotte "Nymii" ! 🐍
 
 I'm a passionate developer and tech explorer who loves experimenting with code, building tools, and diving into new technologies.
 
