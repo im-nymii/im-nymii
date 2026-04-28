@@ -1,4 +1,4 @@
-# Hi there, I'm Charlotte "Nymii" ! 🐍
+# Hi there, I'm Charlotte, Léa "Nymii" ! 🐍
 
 I'm a passionate developer and tech explorer who loves experimenting with code, building tools, and diving into new technologies.
 
