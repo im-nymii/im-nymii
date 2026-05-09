@@ -6,7 +6,7 @@
 
 ## 💻 About Me
 
-Hi! I'm **Charlotte** (you can call me **Nymii** too! 👉👈), and I love making things with code. Whether it's weird experiments, tiny tools, or diving into technologies that interest me, I'm always tinkering with something new~
+Hi! I'm **Charlotte** (you can call me **Nymii** too!), and I love making things with code. Whether it's weird experiments, tiny tools, or diving into technologies that interest me, I'm always tinkering with something new
 
 ### What I Like
 - 🐍 Python, ☕ JavaScript, and other cool languages
