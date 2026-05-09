@@ -1,18 +1,33 @@
-# Hi there, I'm Charlotte, Léa, Chloé "Nymii" ! 🌺
+# ✨ Nymii's Corner ✨
 
-I'm a passionate developer and tech explorer who loves experimenting with code, building tools, and diving into new technologies.
+> A little developer with dreams and keyboards
 
-## About Me
-- 💻 Languages & Tech: Python, C, Java, JavaScript, React, Linux
-- ⚡ Interests: Open-source projects, bots, automation, cybersecurity
-- 🌱 Always learning and exploring new ideas
-- 🎮 Fun fact: I like building small projects that are a bit weird or experimental
+---
 
-## My GitHub
-Here you'll find some of my personal projects, experiments, and open-source contributions. Feel free to explore and reach out if something catches your eye!
+## 💻 About Me
 
-## Contact
+Hi! I'm **Charlotte** (you can call me **Nymii** too! 👉👈), and I love making things with code. Whether it's weird experiments, tiny tools, or diving into technologies that interest me, I'm always tinkering with something new~
+
+### What I Like
+- 🐍 Python, ☕ JavaScript, and other cool languages
+- 🤖 Bots, automation, and creative projects  
+- 🔓 Open-source adventures
+- 🎨 Cybersecurity stuff
+- 🌸 Learning new things every day!
+
+---
+
+## 🌷 What's Here?
+
+My projects are a cozy mix of experiments, personal tools, and open-source things. Feel free to poke around and say hi! 💫
+
+---
+
+## 📞 Let's Connect!
 [![Discord Presence](https://lanyard.kyrie25.dev/api/953256335854678067?theme=dark&showBanner=true&waveColor=transparent&waveSpotifyColor=transparent&bannerFilter=brightness(0.3)%20blur(2px)%20blur(2px)&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/953256335854678067?theme=dark&showBanner=true&waveColor=transparent&waveSpotifyColor=transparent&bannerFilter=brightness(0.3)%20blur(2px)%20blur(2px)&idleMessage=Probably%20doing%20something%20else...)
 
-[Mails](mailto:charlotte@auri-os.org)
+💌 [Email me](mailto:charlotte@auri-os.org)
 
+---
+
+*made with 💜 by nymii*
