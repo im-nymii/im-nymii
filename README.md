@@ -16,12 +16,12 @@ system focused on privacy, low-level software
 and open-source development.
 
 ------------------------------------------------    
-    
+```    
 education : M1 CyberSecurity @ Oteria    
 focus     : cybersecurity · os dev    
 lang      : C · JavaScript · Python    
-status    : online    
-    
+status    : online
+```
 ------------------------------------------------    
 
 [// website](http://nymii.dev/)  
