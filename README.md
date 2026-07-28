@@ -1,11 +1,4 @@
-// PWNING MEMORIES    
-```
-                _ _     
- _ _ _  _ _ __ (_|_)    
-| ' \ || | '  \| | |    
-|_||_\_, |_|_|_|_|_|    
-     |__/               
-```
+✦ chaos, chaos! ✦  
 
 charlotte · cybersecurity / kernel dev
 
