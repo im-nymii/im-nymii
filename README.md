@@ -1,6 +1,4 @@
-✦ chaos, chaos! ✦  
-
-charlotte · cybersecurity / kernel dev
+cybersecurity / kernel dev
 
 i build things from the ground up.
 
